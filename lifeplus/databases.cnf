@@ -1,0 +1,5 @@
+[client]
+database = einvoice
+user = slash
+password = w99a3c69
+default-character-set = utf8
